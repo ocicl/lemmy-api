@@ -2,8 +2,9 @@
 
 Bindings to the Lemmy API.
 
-|---------+-------------------------------------------|
-| source  | git:https://git.sr.ht/~yana/lemmy-api    |
-| commit  | 113ab1e                                   |
-| systems | lemmy-api lemmy-api/base                  |
-|---------+-------------------------------------------|
+|---------+---------------------------------------|
+| source  | git:https://git.sr.ht/~yana/lemmy-api |
+| commit  | d83980e                               |
+| systems | lemmy-api lemmy-api/base              |
+|---------+---------------------------------------|
+-----------------|
