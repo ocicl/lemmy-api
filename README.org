@@ -4,7 +4,7 @@ Bindings to the Lemmy API.
 
 |---------+---------------------------------------|
 | source  | git:https://git.sr.ht/~yana/lemmy-api |
-| commit  | f598b0c                               |
+| commit  | 1ee945a                               |
 | systems | lemmy-api lemmy-api/base              |
 |---------+---------------------------------------|
 -----------------|
